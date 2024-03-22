@@ -1,0 +1,66 @@
+body {
+  font-family: Lato, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('background-image1.jpg'); /* Replace 'background-image.jpg' with your image path */
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background color for header */
+  text-align: center;
+  padding: 50px 20px;
+}
+
+header h1 {
+  color: #fff; /* Text color for header */
+}
+
+.features {
+  padding: 50px;
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background color for features section */
+  text-align: center;
+}
+
+.feature {
+  margin: 20px;
+}
+
+.feature img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background color for footer */
+  color: #fff; /* Text color for footer */
+  text-align: center;
+  padding: 50px 20px;
+}
+
+footer h2 {
+  margin-bottom: 20px;
+}
+
+footer p {
+  margin-bottom: 40px;
+}
+
+form input[type="email"] {
+  padding: 10px;
+  width: 300px;
+  margin-right: 10px;
+  border: none;
+}
+
+form button {
+  padding: 10px 20px;
+  background-color: #f2f2f2;
+  color: #333;
+  border: none;
+  cursor: pointer;
+}
+
+  
+  
